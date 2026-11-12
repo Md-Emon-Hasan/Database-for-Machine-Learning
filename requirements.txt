@@ -1,5 +1,0 @@
-altair
-pandas
-Pillow
-Pillow
-streamlit
